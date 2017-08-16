@@ -2,7 +2,7 @@
 
 <p align="center">
 
-
+<br />
 <a href="https://www.sketchapp.com/">Sketch</a> file of common elements and components from <a href="https://www.bulma.io">Bulma</a>.
 <br />
 <h3 align="center"><a href="#">» Download the latest version «</a></h3>
