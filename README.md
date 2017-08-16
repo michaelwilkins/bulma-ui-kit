@@ -1,7 +1,7 @@
 <h1 align="center">Bulma UI Kit</h1>
 
 <p align="center">
-<a href="https://github.com/michaelwilkins/bulma-ui-kit/bulma-ui-kit.sketch"><img src="https://github.com/michaelwilkins/bulma-ui-kit/bulma-ui-kit.png" alt="Bulma UI Kit" /></a>
+<a href="https://github.com/michaelwilkins/bulma-ui-kit/bulma-ui-kit.sketch"><img src="https://github.com/michaelwilkins/bulma-ui-kit/blob/master/bulm-ui-kit.png" alt="Bulma UI Kit" /></a>
 
 A <a href="https://www.sketchapp.com/">Sketch</a> file of common elements and components from <a href="https://www.bulma.io">Bulma</a>.
 
