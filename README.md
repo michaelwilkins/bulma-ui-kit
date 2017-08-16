@@ -5,9 +5,9 @@
 <br />
 <a href="https://www.sketchapp.com/">Sketch</a> file of common elements and components from <a href="https://www.bulma.io">Bulma</a>.
 <br />
-<h3 align="center"><a href="https://github.com/michaelwilkins/bulma-ui-kit/blob/master/Bulma-ui-kit-1.0.sketch">» Download the latest version «</a></h3>
+<h3 align="center"><a href="https://github.com/michaelwilkins/bulma-ui-kit/raw/master/Bulma-ui-kit-1.0.sketch">» Download the latest version «</a></h3>
 <br />
-<a href="https://github.com/michaelwilkins/bulma-ui-kit/blob/master/Bulma-ui-kit-1.0.sketch"><img src="https://github.com/michaelwilkins/bulma-ui-kit/blob/master/bulm-ui-kit.png" alt="Bulma UI Kit" /></a>
+<a href="https://github.com/michaelwilkins/bulma-ui-kit/raw/master/Bulma-ui-kit-1.0.sketch"><img src="https://github.com/michaelwilkins/bulma-ui-kit/blob/master/bulm-ui-kit.png" alt="Bulma UI Kit" /></a>
 </p>
 
 <br />
