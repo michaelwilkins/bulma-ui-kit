@@ -15,15 +15,20 @@
 
 ----
 
-## Requirements
+## Aobut the UI kit
+
+- Full Components and elements kit currently in progress
+- Symbols in progress  
+
+
 
 ### Sketch
 
 Download the most recent version of [Sketch](https://www.sketchapp.com/).
 
-### SF UI text fonts
+### San Francisco Font
 
-1. [Download the fonts](#)
+1. [Download the fonts](https://github.com/AppleDesignResources/SanFranciscoFont)
 2. Find the fonts located in the
 3. Install the fonts on your system
 
