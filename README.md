@@ -15,7 +15,7 @@
 
 ----
 
-## Aobut the UI kit
+## About the UI kit
 
 - Full Components and elements kit currently in progress
 - Symbols in progress  
